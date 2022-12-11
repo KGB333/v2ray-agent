@@ -151,7 +151,7 @@ PVM.SJC.GIANT| 16G   |8vCPU|400G|44T|10Gbps|$199.9 USD/月
 - 退款需要符合条件，需耐心等待，处理比较慢
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格
----|---|---|---|---|---|---|---
+---|---|---|---|---|---|---
 CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/月
 
 
