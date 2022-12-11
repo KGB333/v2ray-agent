@@ -11,7 +11,6 @@
 - [手动自建教程](https://github.com/mack-a/v2ray-agent/blob/master/documents/Cloudflare_install_manual.md)
 - [ssh入门教程](https://www.v2ray-agent.com/2020-12-16-ssh%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
 
-- [TG群](https://t.me/technologyshare)、[TG频道-更新通知](https://t.me/v2rayAgentChannel)、[博客地址](https://www.v2ray-agent.com/)
 - **请给个⭐支持一下**
 
 * * *
@@ -88,14 +87,6 @@
 - **低版本脚本升级高版本时无法启动问题，[请点击此链接查看解决方案](https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md#4%E4%BD%8E%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7%E9%AB%98%E7%89%88%E6%9C%AC%E5%90%8E%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E6%A0%B8%E5%BF%83)**
 
 ## [脚本使用指南](https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md)、[脚本目录](https://github.com/mack-a/v2ray-agent/blob/master/documents/how_to_use.md#5脚本目录)
-
-## 捐赠
-
-[您可以使用我的AFF进行购买VPS捐赠-博客](https://www.v2ray-agent.com/%E6%82%A8%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%88%91%E7%9A%84AFF%E8%B4%AD%E4%B9%B0vps%E6%8D%90%E8%B5%A0)
-
-[您可以使用我的AFF进行购买VPS捐赠-Github](https://github.com/mack-a/v2ray-agent/blob/master/documents/donation_aff.md)
-
-[支持通过虚拟币向我捐赠](https://github.com/mack-a/v2ray-agent/blob/master/documents/donation.md)
 
 ## 安装脚本
 
