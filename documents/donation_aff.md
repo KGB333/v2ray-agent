@@ -1,5 +1,3 @@
-- [TG群](https://t.me/technologyshare)、[TG频道-更新通知](https://t.me/joinchat/VuYxsKnlIQp3VRw-)、[博客地址](https://www.v2ray-agent.com/)
-
 # 网络差异比较大，买之前建议执行以下两个步骤
 - 测试一下testIP的丢包，traceroute一下testIP的路由，是否商家宣传的一样
 - 以下商家仅作为推荐，实际效果需自测
@@ -15,34 +13,32 @@
 - 线路一般比较稳定，延迟一般180ms以下，晚高峰基本上不丢包
 
 ## 2.推荐商家
-### 1.[搬瓦工](https://bandwagonhost.com/cart.php?aff=64917)
+### 1.搬瓦工
 - 老牌商家在vps圈声望比较高，非常稳定，补货后基本很快会被抢空
-- 6.58%折扣码：BWH3HYATVBJW
-- 12%优惠码：BWHNY2022
 
 
-套餐名称|内存|CPU|硬盘|流量|带宽|价格|购买链接
+套餐名称|内存|CPU|硬盘|流量|带宽|价格|
 ---|---|---|---|---|---|---|---
-CN2 GIA 限量版|1G|1核|20G|500G|1Gbps|89.99 USD/年|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=105)
-CN2 GIA|1G|2核|20G|1T|2.5Gbps|169.99 USD/年|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=87)
-HONG KONG CN2 GIA|2G|2核|40G|500G|1Gbps|$899.99 USD/年|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=95)
+CN2 GIA 限量版|1G|1核|20G|500G|1Gbps|89.99 USD/年|
+CN2 GIA|1G|2核|20G|1T|2.5Gbps|169.99 USD/年|
+HONG KONG CN2 GIA|2G|2核|40G|500G|1Gbps|$899.99 USD/年|
 
 ### 2.Gigsgigscloud
 - 老牌商家，成立较早，工单回复慢
 - 退款需要符合条件，需耐心等待，处理比较慢
 
-套餐名称|内存|CPU|硬盘|流量|带宽|价格|折扣码|购买链接
+套餐名称|内存|CPU|硬盘|流量|带宽|价格|
 ---|---|---|---|---|---|---|---|---
-LAX:SimpleCloud V01 电信gia 联通9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 折扣码 GYP1WPSCQV0T|[购买链接](https://clientarea.gigsgigscloud.com/?affid=3361)
-CLOUD V JP:Japan Tokyo Premium 三网 CN2 GIA|1G|1核|20G|250G|100Mbps|48 USD/月|5% 折扣码 03K5VKLPPALX|[购买链接](https://clientarea.gigsgigscloud.com/?affid=3361)
+LAX:SimpleCloud V01 电信gia 联通9929|500M|1核|20G|1T|1Gbps|12 USD/月|
+CLOUD V JP:Japan Tokyo Premium 三网 CN2 GIA|1G|1核|20G|250G|100Mbps|48 USD/月|
 
 ### 3.Dmit
 - 去程路由：电信联通走CN2 GIA，移动CMI
 - 回程路由：三网CN2 GIA
 
-套餐名称|内存|CPU|硬盘|流量|带宽|价格|购买链接
+套餐名称|内存|CPU|硬盘|流量|带宽|价格|
 ---|---|---|---|---|---|---|---
-LosAngles PVM.LAX.Pro.TINY|1G|1核|10G|650G|500Mbps|28.88 USD/季|[购买链接](https://www.dmit.io/aff.php?aff=3084&a=add&pid=100)
+LosAngles PVM.LAX.Pro.TINY|1G|1核|10G|650G|500Mbps|28.88 USD/季|
 
 # 2.联通 AS9929（A网）
 
@@ -66,18 +62,18 @@ LosAngles PVM.LAX.Pro.TINY|1G|1核|10G|650G|500Mbps|28.88 USD/季|[购买链接]
 - 测试 IP（美国圣何塞）：104.165.62.200
 - 测试 IP（德国法兰克福）：31.22.111.254
 
-套餐名称|内存|CPU|硬盘|流量|带宽|价格|购买链接
+套餐名称|内存|CPU|硬盘|流量|带宽|价格|
 ---|---|---|---|---|---|---|---
-San Jose Premium VPS|1G|1核|10G|500G|1Gbps|7 USD/月|[购买链接](https://www.olink.cloud/clients/aff.php?aff=281)
+San Jose Premium VPS|1G|1核|10G|500G|1Gbps|7 USD/月|
 
 ### 2.Gigsgigscloud
 - 老牌商家，成立较早，工单回复慢
 - 退款需要符合条件，需耐心等待，处理比较慢
 - 下面这个套餐只有联通是AS9929，电信是gia
 
-套餐名称|内存|CPU|硬盘|流量|带宽|价格|折扣码|购买链接
+套餐名称|内存|CPU|硬盘|流量|带宽|价格|折扣码|
 ---|---|---|---|---|---|---|---|---
-LAX:SimpleCloud V01 电信gia 联通AS9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 折扣码 GYP1WPSCQV0T|[购买链接](https://clientarea.gigsgigscloud.com/?affid=3361)
+LAX:SimpleCloud V01 电信gia 联通AS9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 折扣码 GYP1WPSCQV0T|
 
 
 # 3.联通 AS4837（普通民用网）
@@ -94,14 +90,14 @@ LAX:SimpleCloud V01 电信gia 联通AS9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 
 - 洛杉矶动态路由，有时候会很拉垮
 - sanjose大概率会跳Google人机验证，可通过warp或者任意门解锁解决此问题
 
-套餐名称|内存|CPU| 硬盘(SSD) |流量|带宽|价格|购买链接
+套餐名称|内存|CPU| 硬盘(SSD) |流量|带宽|价格|
 ---|-------|---|---|---|---|---|---
-512 MB KVM VPS (New Year 2022)|768M|1核| 10 GB SSD|1T|1Gbps|$9.89 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=620)
-768 MB KVM VPS Special|768MB|1核| 10 GB NVMe SSD Storage           |2T|1Gbps|$11.88 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=679)
-1 GB KVM VPS (New Year 2022)|1G|1核| 20 GB Pure SSD                   |2T|1Gbps|$13.98 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=621)
-1 GB KVM VPS Special |1G|1核| 20 GB SSD Cached RAID-10 Storage |3T|1Gbps|$14.98 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=680)
-2 GB KVM VPS Special |2G|2核| 25 GB Pure SSD                   |4T|1Gbps|$29.98 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=681)
-3 GB KVM VPS (New Year 2022)|3G|1核| 50 GB Pure SSD                   |6T|1Gbps|$31.98 USD|[购买链接](https://my.racknerd.com/aff.php?aff=2705&pid=623)
+512 MB KVM VPS (New Year 2022)|768M|1核| 10 GB SSD|1T|1Gbps|$9.89 USD|
+768 MB KVM VPS Special|768MB|1核| 10 GB NVMe SSD Storage           |2T|1Gbps|$11.88 USD|
+1 GB KVM VPS (New Year 2022)|1G|1核| 20 GB Pure SSD                   |2T|1Gbps|$13.98 USD|
+1 GB KVM VPS Special |1G|1核| 20 GB SSD Cached RAID-10 Storage |3T|1Gbps|$14.98 USD|
+2 GB KVM VPS Special |2G|2核| 25 GB Pure SSD                   |4T|1Gbps|$29.98 USD|
+3 GB KVM VPS (New Year 2022)|3G|1核| 50 GB Pure SSD                   |6T|1Gbps|$31.98 USD|
 
 
 ### 2.dmit
@@ -120,15 +116,15 @@ LAX:SimpleCloud V01 电信gia 联通AS9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 
 - 赠品可以请求创建在其他账户（工单内备注）
 - 通过工单请求赠品，每个订单只允许请求一次，10月26日 23：59（UTC）之前提交工单，不支持TINY系列
 
-套餐名称| 内存    |CPU|硬盘(SSD)|流量|带宽|价格|购买链接
+套餐名称| 内存    |CPU|硬盘(SSD)|流量|带宽|价格|
 ---|-------|---|---|---|---|---|---
-PVM.SJC.TINY| 768MB |1vCPU|10G|2T|10Gbps|$6.9 USD/月|[点击购买](https://www.dmit.io/aff.php?aff=3084&a=add&pid=145)
-PVM.SJC.STARTER| 1.5G  |1vCPU|20G|4T|10Gbps|$12.9 USD/月|[点击购买](https://www.dmit.io/aff.php?aff=3084&a=add&pid=146)
-PVM.SJC.MINI| 2G    |2vCPU|40G|6T|10Gbps|$21.9 USD/月|[点击购买](https://www.dmit.io/aff.php?aff=3084&a=add&pid=147)
-PVM.SJC.MICRO| 4G    |2vCPU|80G|8T|10Gbps|$32.9 USD/月|[点击购买](https://www.dmit.io/aff.php?aff=3084&a=add&pid=148)
-PVM.SJC.MEDIUM| 4G    |4vCPU|120G|12T|10Gbps|$49.9 USD/月|[点击购买](https://www.dmit.io/aff.php?aff=3084&a=add&pid=149)
-PVM.SJC.LARGE| 8G    |4vCPU|200G|22T|10Gbps|$99.9 USD/月|[点击购买](https://www.dmit.io/aff.php?aff=3084&a=add&pid=150)
-PVM.SJC.GIANT| 16G   |8vCPU|400G|44T|10Gbps|$199.9 USD/月|[点击购买](https://www.dmit.io/aff.php?aff=3084&a=add&pid=151)
+PVM.SJC.TINY| 768MB |1vCPU|10G|2T|10Gbps|$6.9 USD/月|
+PVM.SJC.STARTER| 1.5G  |1vCPU|20G|4T|10Gbps|$12.9 USD/月|
+PVM.SJC.MINI| 2G    |2vCPU|40G|6T|10Gbps|$21.9 USD/月|
+PVM.SJC.MICRO| 4G    |2vCPU|80G|8T|10Gbps|$32.9 USD/月|
+PVM.SJC.MEDIUM| 4G    |4vCPU|120G|12T|10Gbps|$49.9 USD/月|
+PVM.SJC.LARGE| 8G    |4vCPU|200G|22T|10Gbps|$99.9 USD/月|
+PVM.SJC.GIANT| 16G   |8vCPU|400G|44T|10Gbps|$199.9 USD/月|
 
 
 # 4.联通 日本软银
@@ -138,25 +134,25 @@ PVM.SJC.GIANT| 16G   |8vCPU|400G|44T|10Gbps|$199.9 USD/月|[点击购买](https:
 - 线路一般比较稳定，延迟一般80ms以下，晚高峰基本上不丢包
 
 ## 2.推荐商家
-### 1.[搬瓦工](https://bandwagonhost.com/cart.php?aff=64917)
+### 1.搬瓦工
 - 老牌商家在vps圈声望比较高，非常稳定，补货后基本很快会被抢空
 - 不接受退款
 - 6.58%折扣码：BWH3HYATVBJW
 - location是【JP-Equinix Osaka Softbank】
 
-套餐名称|内存|CPU|硬盘|流量|带宽|价格|购买链接
+套餐名称|内存|CPU|硬盘|流量|带宽|价格|
 ---|---|---|--|---|---|---|---
-软银/CN2 GIA 限量版|1G|1核|20G|500G|1Gbps|89.99 USD/年|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=105)
-软银/CN2 GIA|1G|2核|20G|1T|2.5Gbps|169.99 USD/年|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=87)
-软银/CN2 GIA|1G|3核|40G|2T|2.5Gbps|299.99 USD/年|[购买链接](https://bandwagonhost.com/aff.php?aff=64917&pid=88)
+软银/CN2 GIA 限量版|1G|1核|20G|500G|1Gbps|89.99 USD/年|
+软银/CN2 GIA|1G|2核|20G|1T|2.5Gbps|169.99 USD/年|
+软银/CN2 GIA|1G|3核|40G|2T|2.5Gbps|299.99 USD/年|
 
 ### 2.Gigsgigscloud
 - 老牌商家，成立较早，工单回复慢
 - 退款需要符合条件，需耐心等待，处理比较慢
 
-套餐名称|内存|CPU|硬盘|流量|带宽|价格|折扣码|购买链接
+套餐名称|内存|CPU|硬盘|流量|带宽|价格
 ---|---|---|---|---|---|---|---|---
-CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/月|5% 折扣码 0P559NYMKTTW|[购买链接](https://clientarea.gigsgigscloud.com/?affid=3361)
+CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/月
 
 
 # 5.CMI
@@ -188,13 +184,13 @@ CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/�
 
 
 
-套餐名称| 内存 |CPU|硬盘(SSD)|流量|带宽|价格|购买链接
+套餐名称| 内存 |CPU|硬盘(SSD)|流量|带宽|价格|
 ---|---|---|---|---|---|---|---
-PVM.HKG.Lite.TINY| 0.75G |1 vCPU|10 GB SSD|2T|1Gbps|$6.9 USD/月|[购买链接](https://www.dmit.io/aff.php?aff=3084&a=add&pid=109)
-PVM.HKG.Lite.STARTER| 1.5G |1 vCPU|20 GB SSD|4T|1Gbps|$12.9 USD/月|[购买链接](https://www.dmit.io/aff.php?aff=3084&a=add&pid=110)
-PVM.HKG.Lite.MINI| 2G |2 vCPU|40 GB SSD|6T|2Gbps|$21.9 USD/月|[购买链接](https://www.dmit.io/aff.php?aff=3084&a=add&pid=111)
-PVM.HKG.Lite.MICRO| 4G |2 vCPU|60 GB SSD|8T|2Gbps|$32.9 USD/月|[购买链接](https://www.dmit.io/aff.php?aff=3084&a=add&pid=111)
-PVM.HKG.Lite.MINI| 4G |4 vCPU|80 GB SSD|6T|2Gbps|$49.9 USD/月|[购买链接](https://www.dmit.io/aff.php?aff=3084&a=add&pid=111)
+PVM.HKG.Lite.TINY| 0.75G |1 vCPU|10 GB SSD|2T|1Gbps|$6.9 USD/月|
+PVM.HKG.Lite.STARTER| 1.5G |1 vCPU|20 GB SSD|4T|1Gbps|$12.9 USD/月|
+PVM.HKG.Lite.MINI| 2G |2 vCPU|40 GB SSD|6T|2Gbps|$21.9 USD/月|
+PVM.HKG.Lite.MICRO| 4G |2 vCPU|60 GB SSD|8T|2Gbps|$32.9 USD/月|
+PVM.HKG.Lite.MINI| 4G |4 vCPU|80 GB SSD|6T|2Gbps|$49.9 USD/月|
 
 
 ### 2.RFCHOST Hong Kong 3 Premium
@@ -214,8 +210,8 @@ PVM.HKG.Lite.MINI| 4G |4 vCPU|80 GB SSD|6T|2Gbps|$49.9 USD/月|[购买链接](ht
 - 199.15.77.1
 
 
-套餐名称| 内存 |CPU|硬盘(SSD)|流量|带宽|价格|购买链接
+套餐名称| 内存 |CPU|硬盘(SSD)|流量|带宽|价格|
 ---|---|---|---|---|---|---|---
-HKG3-Premium-Micro| 512MB |1 CPU|8 GB SSD|500G（只计算出方向流量）|500Mbps|$9.9 USD/月|[购买链接](https://my.rfchost.com/aff.php?aff=899)
-HKG3-Premium-Mini| 1.5G |1 CPU|10 GB SSD|1T|1Gbps|$12.99 USD/月|[购买链接](https://my.rfchost.com/aff.php?aff=899)
-HKG3-Premium-Medium| 2G |2 CPU|20 GB SSD|2T|1Gbps|$21.9 USD/月|[购买链接](https://my.rfchost.com/aff.php?aff=899)
+HKG3-Premium-Micro| 512MB |1 CPU|8 GB SSD|500G（只计算出方向流量）|500Mbps|$9.9 USD/月|
+HKG3-Premium-Mini| 1.5G |1 CPU|10 GB SSD|1T|1Gbps|$12.99 USD/月|
+HKG3-Premium-Medium| 2G |2 CPU|20 GB SSD|2T|1Gbps|$21.9 USD/月|
