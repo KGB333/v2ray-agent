@@ -18,7 +18,7 @@
 
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格
----|---|---|---|---|---|---|---
+---|---|---|---|---|---|---
 CN2 GIA 限量版|1G|1核|20G|500G|1Gbps|89.99 USD/年
 CN2 GIA|1G|2核|20G|1T|2.5Gbps|169.99 USD/年
 HONG KONG CN2 GIA|2G|2核|40G|500G|1Gbps|$899.99 USD/年
@@ -28,7 +28,7 @@ HONG KONG CN2 GIA|2G|2核|40G|500G|1Gbps|$899.99 USD/年
 - 退款需要符合条件，需耐心等待，处理比较慢
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格
----|---|---|---|---|---|---|---|---
+---|---|---|---|---|---|---|---
 LAX:SimpleCloud V01 电信gia 联通9929|500M|1核|20G|1T|1Gbps|12 USD/月
 CLOUD V JP:Japan Tokyo Premium 三网 CN2 GIA|1G|1核|20G|250G|100Mbps|48 USD/月
 
@@ -37,7 +37,7 @@ CLOUD V JP:Japan Tokyo Premium 三网 CN2 GIA|1G|1核|20G|250G|100Mbps|48 USD/�
 - 回程路由：三网CN2 GIA
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格
----|---|---|---|---|---|---|---
+---|---|---|---|---|---|---
 LosAngles PVM.LAX.Pro.TINY|1G|1核|10G|650G|500Mbps|28.88 USD/季
 
 # 2.联通 AS9929（A网）
@@ -63,7 +63,7 @@ LosAngles PVM.LAX.Pro.TINY|1G|1核|10G|650G|500Mbps|28.88 USD/季
 - 测试 IP（德国法兰克福）：31.22.111.254
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格
----|---|---|---|---|---|---|---
+---|---|---|---|---|---|---
 San Jose Premium VPS|1G|1核|10G|500G|1Gbps|7 USD/月
 
 ### 2.Gigsgigscloud
@@ -72,7 +72,7 @@ San Jose Premium VPS|1G|1核|10G|500G|1Gbps|7 USD/月
 - 下面这个套餐只有联通是AS9929，电信是gia
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格|折扣码
----|---|---|---|---|---|---|---|---
+---|---|---|---|---|---|---|---
 LAX:SimpleCloud V01 电信gia 联通AS9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 折扣码 GYP1WPSCQV0T
 
 
@@ -91,7 +91,7 @@ LAX:SimpleCloud V01 电信gia 联通AS9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 
 - sanjose大概率会跳Google人机验证，可通过warp或者任意门解锁解决此问题
 
 套餐名称|内存|CPU| 硬盘(SSD) |流量|带宽|价格
----|-------|---|---|---|---|---|---
+---|-------|---|---|---|---|---
 512 MB KVM VPS (New Year 2022)|768M|1核| 10 GB SSD|1T|1Gbps|$9.89 USD
 768 MB KVM VPS Special|768MB|1核| 10 GB NVMe SSD Storage           |2T|1Gbps|$11.88 USD
 1 GB KVM VPS (New Year 2022)|1G|1核| 20 GB Pure SSD                   |2T|1Gbps|$13.98 USD
@@ -117,7 +117,7 @@ LAX:SimpleCloud V01 电信gia 联通AS9929|500M|1核|20G|1T|1Gbps|12 USD/月|5% 
 - 通过工单请求赠品，每个订单只允许请求一次，10月26日 23：59（UTC）之前提交工单，不支持TINY系列
 
 套餐名称| 内存    |CPU|硬盘(SSD)|流量|带宽|价格
----|-------|---|---|---|---|---|---
+---|-------|---|---|---|---|---
 PVM.SJC.TINY| 768MB |1vCPU|10G|2T|10Gbps|$6.9 USD/月
 PVM.SJC.STARTER| 1.5G  |1vCPU|20G|4T|10Gbps|$12.9 USD/月
 PVM.SJC.MINI| 2G    |2vCPU|40G|6T|10Gbps|$21.9 USD/月
@@ -141,7 +141,7 @@ PVM.SJC.GIANT| 16G   |8vCPU|400G|44T|10Gbps|$199.9 USD/月
 - location是【JP-Equinix Osaka Softbank】
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格
----|---|---|--|---|---|---|---
+---|---|---|--|---|---|---
 软银/CN2 GIA 限量版|1G|1核|20G|500G|1Gbps|89.99 USD/年
 软银/CN2 GIA|1G|2核|20G|1T|2.5Gbps|169.99 USD/年
 软银/CN2 GIA|1G|3核|40G|2T|2.5Gbps|299.99 USD/年
@@ -151,7 +151,7 @@ PVM.SJC.GIANT| 16G   |8vCPU|400G|44T|10Gbps|$199.9 USD/月
 - 退款需要符合条件，需耐心等待，处理比较慢
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格
----|---|---|---|---|---|---|---|---
+---|---|---|---|---|---|---|---
 CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/月
 
 
@@ -185,7 +185,7 @@ CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/�
 
 
 套餐名称| 内存 |CPU|硬盘(SSD)|流量|带宽|价格
----|---|---|---|---|---|---|---
+---|---|---|---|---|---|---
 PVM.HKG.Lite.TINY| 0.75G |1 vCPU|10 GB SSD|2T|1Gbps|$6.9 USD/月
 PVM.HKG.Lite.STARTER| 1.5G |1 vCPU|20 GB SSD|4T|1Gbps|$12.9 USD/月
 PVM.HKG.Lite.MINI| 2G |2 vCPU|40 GB SSD|6T|2Gbps|$21.9 USD/月
@@ -211,7 +211,7 @@ PVM.HKG.Lite.MINI| 4G |4 vCPU|80 GB SSD|6T|2Gbps|$49.9 USD/月
 
 
 套餐名称| 内存 |CPU|硬盘(SSD)|流量|带宽|价格
----|---|---|---|---|---|---|---
+---|---|---|---|---|---|---
 HKG3-Premium-Micro| 512MB |1 CPU|8 GB SSD|500G（只计算出方向流量）|500Mbps|$9.9 USD/月
 HKG3-Premium-Mini| 1.5G |1 CPU|10 GB SSD|1T|1Gbps|$12.99 USD/月
 HKG3-Premium-Medium| 2G |2 CPU|20 GB SSD|2T|1Gbps|$21.9 USD/月
