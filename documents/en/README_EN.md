@@ -2,16 +2,13 @@
 
 > [Thanks for non-commercial open source development authorization by JetBrains](https://www.jetbrains.com/?from=v2ray-agent)
 
-> [Thanks for non-commercial open source development authorization by JetBrains]( https://www.jetbrains.com/?from=v2ray-agent)
-
-> [English Version](https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md)
+> [Chinese Version](https://github.com/KGB333/v2ray-agent/blob/master/README_EN.md)
 
 - [Cloudflare Optimization Solution](https://github.com/mack-a/v2ray-agent/blob/master/documents/optimize_V2Ray.md)
 - [Traffic Relay](https://github.com/mack-a/v2ray-agent/blob/master/documents/traffic_relay.md)
 - [manual self-build tutorial](https://github.com/mack-a/v2ray-agent/blob/master/documents/Cloudflare_install_manual.md)
 - [ssh introductory tutorial](https://www.v2ray-agent.com/2020-12-16-ssh%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B)
 
-- [TG group](https://t.me/technologyshare), [TG channel-update notification](https://t.me/v2rayAgentChannel), [blog address](https://www.v2ray-agent.com/)
 - **Please give a ⭐ support**
 
 * * * 
