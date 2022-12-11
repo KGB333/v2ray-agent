@@ -28,7 +28,7 @@ HONG KONG CN2 GIA|2G|2核|40G|500G|1Gbps|$899.99 USD/年
 - 退款需要符合条件，需耐心等待，处理比较慢
 
 套餐名称|内存|CPU|硬盘|流量|带宽|价格
----|---|---|---|---|---|---|---
+---|---|---|---|---|---|---
 LAX:SimpleCloud V01 电信gia 联通9929|500M|1核|20G|1T|1Gbps|12 USD/月
 CLOUD V JP:Japan Tokyo Premium 三网 CN2 GIA|1G|1核|20G|250G|100Mbps|48 USD/月
 
